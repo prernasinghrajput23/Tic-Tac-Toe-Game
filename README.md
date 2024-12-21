@@ -22,4 +22,4 @@ A simple and fun Tic-Tac-Toe game created using HTML, CSS, and JavaScript. Play 
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   
+   https://github.com/prernasinghrajput23/Tic-Tac-Toe-Game.git
